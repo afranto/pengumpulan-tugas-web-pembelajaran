@@ -18,14 +18,41 @@
     <video controls src="almanar_seloto_20200527_43.mp4"></video>
     
     <!-- link dari youtube -->
-    <h1>Video dari youtube</h1>
+    <h1>Menumbuhkan Pesan</h1>
     <br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Kp_pQdFx0p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     <!-- audio -->
     <h1>audio random</h1>
-    <audio src="1. AL-FATIHAH.mp3"></audio>
+    <audio controls src="audio-patriotisme.mp3"></audio>
+
+    <!-- link -->
+    <h1>Daftar Muslim Creator Class</h1></a>
+
+    <a href="https://muslimcreatorclass.com/">link</a>
     <br>
+    <!-- fungsi align center -->
+    <a href="webkelas.html" target="_blank" >Ke halaman web kelas</a>
+
+    <!-- untuk buat list -->
+<br><br>
+<!-- kolom tanpa titik -->
+<ul>
+  <li>home</li>
+  <li>contact</li>
+  <li>info</li>
+</ul>
+
+<br>
+<!-- ada angkanya -->
+<ol>
+  <li>nomer 1</li>
+  <li>nomer 2</li>
+  <li>nomer 3</li>
+</ol>
+
+
+
 
   </body>
 </html>
